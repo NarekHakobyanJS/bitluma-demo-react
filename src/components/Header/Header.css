@@ -1,0 +1,49 @@
+.header{
+    box-shadow: var(--shadow);
+    background-color: var(--colors-bg);
+    padding: 10px 20px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top : 0;
+    z-index: 99;
+}
+
+.header-content {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-logo img {
+    width: 50px;
+}
+
+.btn-theme{
+    background: transparent;
+    border : none;
+    cursor: pointer;
+}
+
+.btn-theme svg {
+    font-size: 22px;
+    margin-right: 16px;
+}
+
+.sun {
+    color : gold;
+}
+.moon{
+    color : gray;
+}
+.lng{
+    font-size: 22px;
+    color : gray;
+    cursor: pointer;
+}
+.openPopup{
+    position: absolute;
+    top : 57px;
+    right : 0;
+    padding: 5px;
+}

@@ -1,0 +1,47 @@
+{
+    "navigation" : {
+        "home" : "Home",
+        "documentation" : "Documentation",
+        "platform" : "Platform",
+        "ourTeam" : "Our Team",
+        "roadMap" : "Road Map",
+        "contacts" : "Contacts"
+    },
+    "homeFirst" : {
+        "h1" : "WELCOME TO",
+        "p" : "RD GENERETION CRYPTOCURRENCY",
+        "btn1" : "to Buy",
+        "btn2" : "Register",
+        "price" : "amd"
+    },
+    "homeAbout" : {
+        "h1" : "About Us",
+        "p" : "Complete Web 3.0-driven ecosystem endorsed by the leading tech giant Hedera",
+        "fast" : "Fast",
+        "transparent" : "Transparent",
+        "security" : "Security",
+        "availability" : "Availability",
+        "bitlumaInfo1" : "is a third-generation cryptocurrency that runs on the basis of hashgraph technology. Cryptocurrency provides fast, secure and stable transfers from anywhere in the world in 24/7 format with minimal commissions, without third party intervention.",
+        "bitlumaInfo2" : "Will Not Lose Its Value",
+        "bitlumaInfo3" : "Unlike other cryptocurrencies, Bitluma will not lose its value, as the Bitluma Fund is ready to buy back your Bitlumas with the same cost you’ve bought it."
+    },
+    "homeService" : {
+        "serviceTitle" : "Service",
+        "serviceParagrap" : "FIRST YOU SHOULD KNOW",
+        "serviceTitle1" : "Decentralized Applications",
+        "serviceParagrap1" : "is a platform where developers and investors come together for new ideas, create decentralized applications in web3.",
+        "serviceTitle2" : "Smart Contract",
+        "serviceParagrap2" : "Deploy smart contracts in popular languages including ( Solidity ) and ( Vyper ) to create decentralized applications and protocols.",
+        "serviceTitle3" : "Financial Growth",
+        "serviceParagrap3" : "While you are enjoying your entertainment , your Bitluma works for you ( 24/7 ) , increasing your income. -You will receive income and donate to charity",
+        "serviceTitle4" : "Security",
+        "serviceParagrap4" : "eploy on a network with proven, best-in-class asynchronous Byzantine fault tolerant (ABFT) security that's resistant to DDoS and Sybil attacks",
+        "serviceTitle5" : "Digital Wallet",
+        "serviceParagrap5" : "The Bitluma Wallet allows to control your own financial resources, receive and make transfers from any place in the world within a few seconds.",
+        "serviceTitle6" : "Founds",
+        "serviceParagrap6" : "Unlike the others, our funds are transparent and serve their purpose effectively. You can track your invested financial resources anytime, anywhere"
+    },
+    "OurTeam" : {
+        "name" : "Narek Hakobyan" 
+    }
+}

@@ -1,0 +1,24 @@
+.roadMap{
+    width: 100%;
+    height: 100%;
+    margin: 99px ;
+}
+.road-line{
+    height: 100%;
+    width: 3px;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    margin-left: -4px;
+    border-left: 6px solid black;
+    top : 60px;
+}
+.klor{
+    width: 45px;
+    height: 45px;
+    border-radius: 45%;
+    position: absolute;
+    background: gold;
+    top : 100px;
+    right: 300px;
+}

@@ -1,0 +1,14 @@
+.team {
+    width: 100%;
+    margin : 0 auto;
+    height: 100vh;
+}
+
+.team-description{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.team-description img {
+    margin-right: 45px;
+}

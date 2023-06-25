@@ -1,0 +1,75 @@
+.second-block{
+    width: 100%;
+    max-width: 1440px;
+    margin : 69px auto;
+    height: 100vh;
+    padding: 25px 20px;
+}
+.second-block-p{
+    color : gray;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.second-block h1{
+    text-align: center;
+}
+.second-block h1 span {
+    color : gold;
+}
+.second-block-decription{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 0 0 0;
+}
+.second-block-info2{
+    width: 550px;
+}
+.second-block-info2 p {
+    font-weight: 700;
+    margin: 25px 0;
+}
+.second-block-info2 h5{
+    margin: 10px;
+}
+.second-block-info{
+    width: 550px;
+    margin: 25px 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.progres:first-child{
+    margin : 0 0 20px 0;
+}
+.progres{
+    margin: 20px 0;
+}
+.second-block-info progress{
+    width: 100%;
+}
+.second-block-info b {
+    float: right;
+}
+
+progress{
+    background-color: pink;
+    accent-color: black;
+    border-radius: 16px;
+}
+
+progress::-webkit-progress-bar{
+background: red;
+border-radius: 16px;
+}
+
+progress::-webkit-progress-value{
+background: gold;
+border-radius: 16px;
+}
+.progres b, label {
+    margin-bottom: 15px;
+}
+

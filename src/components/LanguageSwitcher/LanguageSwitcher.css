@@ -1,0 +1,21 @@
+.Lng-switcher{
+    display: flex;
+    flex-direction: column;
+    width: 70px;
+    cursor: pointer;
+}
+.lng-switcher{
+    border-radius: 16px;
+    font-size: 15px;
+    padding: 10px;
+    background: var(--colors-bg);
+    color: var(--color-text);
+}
+
+.lng-switcher-text{
+    transition: .3s all linear;
+}
+.lng-switcher-text:hover {
+    font-size: 19px;
+    color : #ff008c;
+}

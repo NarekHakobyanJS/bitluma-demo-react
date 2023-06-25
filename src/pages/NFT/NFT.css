@@ -1,0 +1,13 @@
+.nft{
+    color : var(--color-text);
+    max-width: 1440px;
+    margin : 69px auto;
+    height: 100vh;
+    padding: 25px 20px;
+}
+
+.nft-item-block{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}

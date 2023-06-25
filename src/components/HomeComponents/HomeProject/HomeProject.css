@@ -1,0 +1,29 @@
+.home-project{
+    width: 100%;
+    max-width: 1440px;
+    margin : 69px auto;
+    height: 100vh;
+    padding: 25px 20px;
+}
+.home-project h1{
+    text-align: center;
+}
+.home-project-p{
+    color : gray;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.home-project-video-block{
+    margin: 50px auto;
+    max-width: 1000px;
+}
+.home-project-video{
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    overflow: hidden;
+}
